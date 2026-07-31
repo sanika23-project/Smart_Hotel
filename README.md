@@ -239,7 +239,7 @@ Smart_HotelManagement/
 ## Clone Project
 
 ```bash
-git clone https://github.com/yourusername/Smart_HotelManagement.git
+https://github.com/sanika23-project/Smart_Hotel.git
 ```
 
 ---
