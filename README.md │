@@ -1,0 +1,16 @@
+# Hotel Management System
+
+A Flask based Hotel Management System.
+
+Developer:
+Sanika Mali
+
+Features
+
+- Admin Login
+- User Login
+- Hotel Booking
+- Room Availability
+- Reviews
+- Wishlist
+- Dashboard

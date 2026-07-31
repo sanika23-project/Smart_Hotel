@@ -1,0 +1,7 @@
+Flask==3.1.2
+
+Flask
+Pillow
+qrcode
+reportlab
+Flask-Mail
